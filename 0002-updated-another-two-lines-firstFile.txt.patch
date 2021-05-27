@@ -1,0 +1,26 @@
+From ee0c8f0898cb8b39a3a97c90e5cdc6304cbf8573 Mon Sep 17 00:00:00 2001
+From: Kirsan1777 <nik.bnp@gmail.com>
+Date: Thu, 27 May 2021 15:16:42 +0300
+Subject: [PATCH 2/2] updated another two lines firstFile.txt
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index ee4fe31..d2741d5 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,7 +1,7 @@
+ 11
+ 22
+-3
+-4
++33
++44
+ 5
+ 6
+ 7
+-- 
+2.31.1.windows.1
+
